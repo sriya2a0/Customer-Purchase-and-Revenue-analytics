@@ -129,6 +129,7 @@ Users can analyze the dashboard using filters such as:
 
 ## 📸 Power BI Dashboard
 
+![Customer Purchase & Revenue Analytics Dashboard]()
 ---
 
 ## Skills Demonstrated
