@@ -1,5 +1,5 @@
 # Customer-Purchase-and-Revenue-analytics
-End-to-end customer purchase and revenue analysis using Python,Excel and Power BI with an interactive Dashboard to uncover customer, product and sales insights.
+End-to-end customer purchase and revenue analysis using Python, SQL and Power BI with an interactive Dashboard to uncover customer, product and sales insights.
 
 
 ## Project Overview
@@ -41,7 +41,7 @@ The main objectives of this project are to:
 ## Tech Stack
 
 - **Python** – Data cleaning, preprocessing and analysis
-- **Excel** – Data validation and exploratory analysis
+- **SQL** – Data validation and exploratory analysis
 - **Power BI** – Data visualization and dashboard development
 - **DAX** – Measures and KPI calculations
 
